@@ -1,0 +1,6 @@
+total 3
+drwxr-xr-x    5 pvanegmo Administ        0 Jun  8 09:38 .
+drwxr-xr-x    4 pvanegmo Administ        0 Jun  7 17:53 ..
+drwxr-xr-x   12 pvanegmo Administ     4096 Jun  8 09:05 .git
+-rw-r--r--    1 pvanegmo Administ       28 Jun  7 17:46 HelloWorld.md
+-rw-r--r--    1 pvanegmo Administ        0 Jun  8 09:38 wdir1.txt
