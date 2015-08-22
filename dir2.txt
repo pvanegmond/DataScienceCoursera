@@ -1,3 +1,0 @@
-dir.txt
-dir2.txt
-mactest.txt
